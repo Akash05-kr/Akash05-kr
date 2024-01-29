@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hello World! I'm Akash</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img aligin="left" width="400" alt = "coding" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akash05-kr&label=Profile%20views&color=0e75b6&style=flat" alt="akash05-kr" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash05-kr&label=Profile%20views&color=0e75b6&style=flat" alt="akash05-kr" /> </p>
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
@@ -10,7 +12,7 @@
 
 - 📫 How to reach me **akashchaurasiya5904@gmail.com**
 
-- ⚡ Fun fact **I think I am a Late-Night Coder, Early-Bird Explorer☕🌅**
+- ⚡ Fun fact **I think I am a Late-Night Coder, Early-Bird Explorer ☕🌅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash05-kr&show_icons=true&locale=en" alt="akash05-kr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash05-kr&" alt="akash05-kr" /></p>
-
