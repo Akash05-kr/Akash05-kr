@@ -1,6 +1,6 @@
 ![logo](https://github.com/Akash05-kr/Akash05-kr/blob/main/new.gif)
 <h1 align="center">👋 Hello World! I'm Akash Kumar Chaurasiya</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
 
 
