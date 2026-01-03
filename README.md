@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash05-kr&label=Profile%20views&color=0e75b6&style=flat" alt="akash05-kr" /> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin**
+- 🌱 I’m currently working **Java, Kotlin**
 
 - 💬 Ask me about **Android SDK, Android Jetpack**
 
 - 📫 How to reach me **akashchaurasiya5904@gmail.com**
 
-- ⚡ Fun fact **I think I am a Late-Night Coder, Early-Bird Explorer ☕🌅**
+- ⚡ Fun fact **I think I am a  Early-Bird Explorer ☕🌅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
