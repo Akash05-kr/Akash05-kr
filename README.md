@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="500"  src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
+<img align="right" alt="Coding" width="350"  src="https://media0.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif">
 
 
 
@@ -54,7 +54,7 @@ I focus on **clean code**, **practical problem-solving**, and **building applica
 - Android Studio
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,android,python,cpp,firebase,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,cpp,firebase,git,github,linux,python,aws,gcp" />
 </p>
 
 ---
@@ -71,13 +71,9 @@ I focus on **clean code**, **practical problem-solving**, and **building applica
 ### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash05-kr&show_icons=true&theme=default&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash05-kr&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash05-kr&layout=compact&hide_border=true" height="140"/>
-</p>
 
 ---
 
